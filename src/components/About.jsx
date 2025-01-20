@@ -45,13 +45,11 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className='mt-4 text-secondary text-[17px] w-full leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        👋 Hi, I’m Siddharth Singh Rathore, a passionate Senior Software Developer specializing in Angular and frontend technologies with over two years of experience. My journey in tech revolves around crafting scalable, user-friendly web applications while exploring emerging trends in RPA and intelligent automation.
+
+        With a strong foundation in React, Angular, and Next.js, I’m committed to creating seamless user experiences. I’m also diving into Python, Java, and Android development, expanding my expertise to build impactful solutions that solve real-world challenges.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Development",
+    title: "Frontend Development",
     icon: web,
   },
   {
-    title: "Full-Stack Development",
+    title: "Robotic Process Automation (RPA)",
     icon: mobile,
   },
   {
-    title: "Backend Development",
+    title: "Web Application Development (MERN, MEAN)",
     icon: backend,
   },
   {
-    title: "Frontend Development",
+    title: "UI/UX Design",
     icon: creator,
   },
 ];
@@ -116,17 +116,17 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Sr. Software Developer",
+    title: "Senior Software Developer",
     company_name: "Samsung",
     icon: starbucks,
     iconBg: "#383E57",
     date: "March 2024 - Present",
     points: [
-      "Developing and maintaining service plugins for various applications",
-      "Creating and implementing dynamic components using Angular to build intuitive and responsive user interfaces for television screens.",
-      "Designing and developing graphical user interfaces (GUIs) and user interfaces (UIs) tailored for optimal performance and user engagement.",
-      "Developing robust APIs and integrating them with backend systems to ensure seamless communication and data flow.",
-      "Participating in code reviews, providing constructive feedback, and ensuring adherence to best practices and coding standards."
+      "Hybrid Application Development: Expertise in building WebView components using Angular, enabling the integration of web functionalities within mobile applications.",
+      "Scalable Web Solutions: Designed and implemented performance-driven web applications to meet diverse business needs.",
+      "Cross-Platform Collaboration: Worked with multidisciplinary teams to unify web and mobile experiences for end-users.",
+      "Mentorship: Guided junior developers, fostering a culture of learning and collaboration within the team.",
+      "Optimized Performance: Continuously refined application architecture to improve efficiency and adaptability."
     ],
   },
   {
@@ -136,10 +136,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Custom Website Development: Delivered responsive and user-centric websites, emphasizing modern UI/UX principles to enhance usability and accessibility.",
+      "Dynamic Applications: Integrated RESTful APIs to build interactive and data-driven applications, ensuring seamless performance across devices.",
+      "Client-Centric Approach: Collaborated closely with clients to transform ideas into functional, visually appealing digital products.",
+
     ],
   },
 ];
