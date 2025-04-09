@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frontend Development",
+    title: "Full Stack Development",
     icon: web,
   },
   {
-    title: "Robotic Process Automation (RPA)",
+    title: "Wordpress Development",
     icon: mobile,
   },
   {
-    title: "Web Application Development (MERN, MEAN)",
+    title: "Landing Page Design + Development",
     icon: backend,
   },
   {
-    title: "UI/UX Design",
+    title: "Micro SaaS or Plugin Development",
     icon: creator,
   },
 ];
